@@ -1,0 +1,20 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+.ul-links {
+    list-style-type: none;
+}
+
+li {
+    padding: 3px;
+}
